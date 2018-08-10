@@ -15,3 +15,7 @@ https://blog.percy.io/turbocharge-your-react-development-with-storybook-and-perc
 https://medium.com/storybookjs/the-storybook-story-dd3c1ab0d2ce
 
 https://storybook.js.org/basics/writing-stories/
+
+https://medium.com/@mlthuret/building-a-react-components-living-documentation-using-react-storybook-5f11f0e7d23e
+
+
