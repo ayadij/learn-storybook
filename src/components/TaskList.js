@@ -58,6 +58,7 @@ export function PureTaskList({ loading, tasks, onPinTask, onArchiveTask }) {
     </div>
   );
 }
+
 PureTaskList.propTypes = {
   loading: PropTypes.bool,
   tasks: PropTypes.arrayOf(Task.propTypes.task).isRequired,
